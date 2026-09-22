@@ -8,8 +8,6 @@ The badge updates while the thread is open. Missing data stays unavailable, and 
 
 Install GitHub Copilot CLI and sign in with a Copilot-enabled account on the machine running your BB environment. Configure it as BB's custom ACP agent with ID `copilot` and arguments `["--acp"]`. Requires BB 0.43 or newer and compatible Plugin SDK 0.4 APIs.
 
-Follow the [Copilot ACP setup instructions](https://github.com/balazstasi/bb-plugin-copilot-aic-usage#readme).
-
 ## Local data
 
 The plugin reads Copilot's local usage checkpoints. It does not send model requests, change Copilot files, or upload telemetry to an external service. BB receives usage values through its host connection. Prompts and responses are not returned or logged.
