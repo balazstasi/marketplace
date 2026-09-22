@@ -1,9 +1,9 @@
 {
   "id": "copilot-aic-usage",
   "displayName": "Copilot AI Credits",
-  "description": "Track Copilot AI credits without leaving your BB thread. Inspect session usage, today's host total, and the latest monthly premium-request quota. Reads local checkpoints without sending model requests. Requires a separate GitHub Copilot CLI installation and a Copilot-enabled account, configured through BB's ACP provider.",
+  "description": "Track Copilot AI credits in your BB thread. See this session's usage, today's host total, and monthly premium requests. Install the GitHub Copilot provider from BB's marketplace and sign in to GitHub Copilot CLI with a Copilot-enabled account.",
   "icon": {
-    "url": "./icons/copilot-aic-usage.svg"
+    "url": "./icons/copilot-aic-usage-7fb6c6d4.svg"
   },
   "tags": [
     "copilot",
