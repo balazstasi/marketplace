@@ -24,5 +24,8 @@
     }
   },
   "category": "token-usage-and-limits",
-  "overview": "./overview/copilot-aic-usage.md"
+  "overview": "./overview/copilot-aic-usage.md",
+  "screenshots": [
+    "./screenshots/copilot-aic-usage/usage-details.png"
+  ]
 }
